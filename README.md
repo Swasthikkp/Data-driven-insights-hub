@@ -1,5 +1,6 @@
-# Swasthik - Codveda Data Analytics Project
+# data-driven-insights-hub
 
+Codveda Data Analytics Project :
 This repository contains three completed tasks for the Codveda internship:
 
 1. Data Cleaning & Exploratory Data Analysis (Level 1) - notebooks/01_data_cleaning_eda.ipynb
@@ -9,7 +10,7 @@ This repository contains three completed tasks for the Codveda internship:
 All data files are in the `data/` folder. Figures are in `figures/`. Helper scripts are in `src/`.
 
 ## Notes
-- Author: Swasthik
+- Author: Swasthik K P
 - This project is structured to be ready for GitHub. No empty folders.
 
 ## How to run
