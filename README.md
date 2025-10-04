@@ -11,7 +11,7 @@ All data files are in the `data/` folder. Figures are in `figures/`. Helper scri
 
 ## Notes
 - Author: Swasthik K P
-- This project is structured to be ready for GitHub. No empty folders.
+- This project is structured to be ready for three completed tasks for the Codveda internship
 
 ## How to run
 1. Create a virtual environment
