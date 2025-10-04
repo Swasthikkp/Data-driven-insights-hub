@@ -1,4 +1,4 @@
-# data-driven-insights-hub
+# Data-driven-insights-hub
 
 Codveda Data Analytics Project :
 This repository contains three completed tasks for the Codveda internship:
